@@ -3,6 +3,7 @@ Dataset used is Breast Cancer Wisconsin (Diagnostic) Data Set
 
 Please make sure you have the following installed
 
+pip install python
 
 pip install streamlit
 
@@ -16,6 +17,6 @@ pip install seaborn
 
 pip install scikit-learn
 
-pip install python
+
 
 You can reach me on my website: https://christiansajere.com/Contact
