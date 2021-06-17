@@ -4,7 +4,7 @@ Dataset used is Breast Cancer Wisconsin (Diagnostic) Data Set
 Please make sure you have the following installed
 
 
-pip install streamlit as st
+pip install streamlit
 
 pip install numpy 
 
